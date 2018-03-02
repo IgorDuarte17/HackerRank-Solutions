@@ -16,5 +16,5 @@
 ## SQL ![SQLPoints]
 - [Basic Select](SQL/Basic-Select/) PL/SQL
 
-[AlgorithmsPoints]:https://img.shields.io/badge/Points-61-brightgreen.svg
+[AlgorithmsPoints]:https://img.shields.io/badge/Points-96-brightgreen.svg
 [SQLPoints]:https://img.shields.io/badge/Points-125-yellow.svg
